@@ -5,6 +5,6 @@
 - 🌱 I’m currently learning React
 - 💬 Ask me about UI stuff
 - 📫 How to reach me: kapeesh.manilal@lobsterink.com
-- 😄 Pronouns: Kappy
+- 😄 Nickname: Kappy
 - ⚡ Fun fact: A South-African with Indian heritage with an Italian name currently living in Amsterdam
 
